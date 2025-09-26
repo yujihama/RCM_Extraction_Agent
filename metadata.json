@@ -1,0 +1,5 @@
+{
+  "name": "J-SOX RCM AI Agent",
+  "description": "An AI agent that autonomously extracts information from RCM (Risk Control Matrix) files in various formats used in J-SOX assessment work, and outputs it in a standardized CSV format.",
+  "requestFramePermissions": []
+}
